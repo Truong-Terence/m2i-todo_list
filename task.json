@@ -1,0 +1,44 @@
+{
+    "tasks": [
+        {
+            "id": 1,
+            "content": "Mettre en place une architecture modulaire ES6"
+        },
+        {
+            "id": 2,
+            "content": "Mettre en place un fichier service.mjs contenant un CRUD sur un tableau de tâches"
+        },
+        {
+            "id": 3,
+            "content": "Récupérez les tâches grâce au service et affichez les"
+        },
+        {
+            "id": 4,
+            "content": "Une fois les tâches affichées, implémentez la suppression d'une tâche"
+        },
+        {
+            "id": 5,
+            "content": "Lorsque je coche une tache, implémentez ce changement d'état sur le serveur"
+        },
+        {
+            "id": 6,
+            "content": "Implémentez la création d'une tâche via une deuxième page"
+        },
+        {
+            "id": 7,
+            "content": "Mettre en place json-server (trouvable sur github)"
+        },
+        {
+            "id": 8,
+            "content": "Dans le service, utilisez désormais l'API Fetch afin de ne plus utiliser le tableau"
+        },
+        {
+            "id": 9,
+            "content": "Adaptez votre code pour que les modifications soient effectives coté serveur"
+        },
+        {
+            "id": 10,
+            "content": "BONUS : affichez le détail d'une tâche sur une nouvelle page lors du clic sur celle-ci."
+        }
+    ]
+  }
